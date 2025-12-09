@@ -1,0 +1,106 @@
+{
+  "shops": {
+    "hukumatu": {
+      "name": "福松そば",
+      "kitchenPassword": "1234",
+      "adminPassword": "admin123",
+      "tableCount": 10
+    }
+  },
+  "tables": {
+    "hukumatu_1": {
+      "shopId": "hukumatu",
+      "tableNo": 1,
+      "isOccupied": false,
+      "currentOrderId": "",
+      "state": "empty"
+    },
+    "hukumatu_2": {
+      "shopId": "hukumatu",
+      "tableNo": 2,
+      "isOccupied": false,
+      "currentOrderId": "",
+      "state": "empty"
+    },
+    "hukumatu_3": {
+      "shopId": "hukumatu",
+      "tableNo": 3,
+      "isOccupied": false,
+      "currentOrderId": "",
+      "state": "empty"
+    },
+    "hukumatu_4": {
+      "shopId": "hukumatu",
+      "tableNo": 4,
+      "isOccupied": false,
+      "currentOrderId": "",
+      "state": "empty"
+    },
+    "hukumatu_5": {
+      "shopId": "hukumatu",
+      "tableNo": 5,
+      "isOccupied": false,
+      "currentOrderId": "",
+      "state": "empty"
+    },
+    "hukumatu_6": {
+      "shopId": "hukumatu",
+      "tableNo": 6,
+      "isOccupied": false,
+      "currentOrderId": "",
+      "state": "empty"
+    },
+    "hukumatu_7": {
+      "shopId": "hukumatu",
+      "tableNo": 7,
+      "isOccupied": false,
+      "currentOrderId": "",
+      "state": "empty"
+    },
+    "hukumatu_8": {
+      "shopId": "hukumatu",
+      "tableNo": 8,
+      "isOccupied": false,
+      "currentOrderId": "",
+      "state": "empty"
+    },
+    "hukumatu_9": {
+      "shopId": "hukumatu",
+      "tableNo": 9,
+      "isOccupied": false,
+      "currentOrderId": "",
+      "state": "empty"
+    },
+    "hukumatu_10": {
+      "shopId": "hukumatu",
+      "tableNo": 10,
+      "isOccupied": false,
+      "currentOrderId": "",
+      "state": "empty"
+    }
+  },
+  "menu": {
+    "hukumatu_101": {
+      "shopId": "hukumatu",
+      "menuNumber": 101,
+      "name": "三枚肉そば",
+      "price": 850,
+      "isActive": true
+    },
+    "hukumatu_102": {
+      "shopId": "hukumatu",
+      "menuNumber": 102,
+      "name": "ソーキそば",
+      "price": 900,
+      "isActive": true
+    },
+    "hukumatu_103": {
+      "shopId": "hukumatu",
+      "menuNumber": 103,
+      "name": "じゅーしー",
+      "price": 250,
+      "isActive": true
+    }
+  }
+}
+
